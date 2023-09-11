@@ -1,0 +1,47 @@
+[
+	{
+		"averageRating": 0,
+		"category": "travel",
+		"description": "Your luggage won’t drag you down when you have the Swiss Gear Spring Break collection. This set of three hard side bags offer plenty of space, with a versatile and lightweight construction that can expand for extra capacity, making room for souvenirs. Enjoy swivel wheels, water-resistant and durable ABS material, and a stylish look suitable for any business trip or resort.",
+		"img": "LUGGAGE.jpg",
+		"name": "SWISSGEAR Spring Break 3-Piece Hard Side Expandable Luggage Set - Black",
+		"price": 290.99,
+		"ratings": []
+	},
+	{
+		"averageRating": 0,
+		"category": "travel",
+		"description": "Designed for your convenience and modern style, the Samsonite pro grade 2 15.6 laptop day backpack has Stackit Strap that fits over most suitcase pull-handles to ensure hassle-free mobility. It features padded top carry handle and multiple pockets with spacious interior for a neat storage option. This backpack perfectly fits most 15.6 laptops and has tricot-lined pocket for tablet.",
+		"img": "BACKPACK.jpg",
+		"name": "Samsonite Pro Grade 2 15.6 Laptop Day Backpack - Black ",
+		"price": 150.99,
+		"ratings": []
+	},
+	{
+		"averageRating": 0,
+		"category": "travel",
+		"description": "Pack smarter, not harder with the Mancini Buffalo 23 large duffle bag. It features padded compartments to safely keep your laptop and tablet. Perfect for both business and personal use, this stylish duffle bag is equipped with multiple zippered and slit pockets to keep on-the-go essentials safe and handy.",
+		"img": "DUFFLEBAG.jpg",
+		"name": "Mancini Buffalo 23 Large Duffle Bag - Brown",
+		"price": 320.99,
+		"ratings": []
+	},
+	{
+		"averageRating": 0,
+		"category": "travel",
+		"description": "Carry your office essentials with poise in this Samsonite Classic laptop messenger bag. Made of genuine leather, this bag boasts a classy yet timeless style that easily blends and complements your office look. The multiple interior and exterior pockets provide plenty of options for storage and organisation.",
+		"img": "LAPTOPBAG.jpg",
+		"name": "Samsonite Classic Leather 15.6 Laptop Messenger Bag - Cognac",
+		"price": 280.99,
+		"ratings": []
+	},
+	{
+		"averageRating": 0,
+		"category": "travel",
+		"description": "The Kendal leather bag from Club Rochelier is designed with convenience in mind for the perfect everyday bag. 4 exterior pockets mean you'll spend less time digging around for what you need while a top zip closure and interior pockets help you stay organized while keeping valuable items secure. An adjustable strap means comfortable hands-free wear.",
+		"img": "CROSSBODYBAG.jpg",
+		"name": "1 of 3 Club Rochelier Kendal Leather Crossbody Bag - Brown (CR815)",
+		"price": 180.99,
+		"ratings": []
+	}
+]
