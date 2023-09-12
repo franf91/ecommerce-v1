@@ -83,7 +83,7 @@ export default function Page() {
 									<Link href="">
 										<div className="product-rating">
 											<p className="product-average-rating">
-												{item.averageRating !== undefined ? item.averageRating.toFixed(2) : 0}
+												{item.averageRating !== undefined ? item.averageRating.toFixed(1) : 0}
 											</p>
 											<p className="product-average-review">
 												({item.ratings?.length} Reviews)
