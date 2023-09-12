@@ -16,7 +16,7 @@ export default function Page() {
 		title: cleanPathname,
 	});
 
-	console.log(cleanPathname);
+	
 
 	const [items, setItems] = useState([]);
 
@@ -43,7 +43,7 @@ export default function Page() {
 				<div className="items-title">{pageTitle}</div>
 			</Link>
 			<div className="items-banner">
-				<img src={`../../img/${pageTitle}.jpg`}></img>
+				<img src={`../../img/${cleanPathname}.jpg`}></img>
 			</div>
 
 			<div className="items-container">
