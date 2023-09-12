@@ -16,6 +16,8 @@ export default function Page() {
 		title: cleanPathname,
 	});
 
+	console.log(cleanPathname);
+
 	const [items, setItems] = useState([]);
 
 	const getItems = async () => {
