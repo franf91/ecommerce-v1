@@ -122,7 +122,9 @@ export default function Page() {
 				passwordAgain: "",
 			});
 
-			router.push("../../");
+			toast.success("New user registered successfully");
+
+			router.push("./login");
 		}
 	};
 
