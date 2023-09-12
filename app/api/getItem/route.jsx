@@ -13,7 +13,11 @@ export async function POST(request) {
 	const body = await request.json();
 	const { id } = body;
 
-	const productRef = doc(db, "products", id.trim());
+	
+// Check if 'id' is defined and is a string before trimming
+const trimmedId = typeof id === 'string' ? id.trim() : id;
+
+	const productRef = doc(db, "products", trimmedId);
 
 	// Retrieve the product document
 	const docSnapshot = await getDoc(productRef);
